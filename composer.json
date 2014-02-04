@@ -1,0 +1,18 @@
+{
+    "name": "lagman/yii-fullcalendar",
+    "description": "Yii extension for the Arshaw's FullCalendar jQuery plugin",
+    "keywords": ["yii", "framework", "fullcalendar", "widget", "extension"],
+    "license": "MIT",
+    "version": "1.6.4",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com",
+            "homepage": "http://lagman.su"
+        }
+    ],
+    "type": "yii-extension",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
