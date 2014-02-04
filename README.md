@@ -1,4 +1,4 @@
-﻿# FullCalendar component for Yii 1.x
+﻿# Yii extension for the Arshaw's FullCalendar jQuery plugin
 
 By Alexey Samoylov (<alexey.samoylov@gmail.com>).
 
