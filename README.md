@@ -1,4 +1,4 @@
-﻿# FullCalendar component for Yii 1.x
+﻿# Yii extension for the Arshaw's FullCalendar jQuery plugin
 
 By Alexey Samoylov (<alexey.samoylov@gmail.com>).
 
@@ -92,6 +92,6 @@ public function generateCalendarEvents()
 }
 ```
 ### Links
-* <https://github.com/russianlagman/yii/tree/master/extensions/fullcalendar>
+* <https://github.com/russianlagman/yii-fullcalendar>
 * <http://arshaw.com/fullcalendar/>
 * <https://github.com/arshaw/fullcalendar/releases>
