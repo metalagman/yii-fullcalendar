@@ -3,7 +3,7 @@
     "description": "Yii extension for the Arshaw's FullCalendar jQuery plugin",
     "keywords": ["yii", "framework", "fullcalendar", "widget", "extension"],
     "license": "MIT",
-    "version": "1.6.4",
+    "version": "1.6.4.1",
     "authors": [
         {
             "name": "Alexey Samoylov",
