@@ -65,7 +65,7 @@ class FullCalendar extends CApplicationComponent
         ];
 
         $this->options['axisFormat'] = $locale->getTimeFormat('short');
-        $this->options['firstDay'] = date("N", time())-1;
+        $this->options['firstDay'] = date('w', time() - (date('w') - 1) * 60*60*24);
     }
 
     /**
