@@ -27,7 +27,7 @@ class FullCalendar extends CApplicationComponent
 
             $cs->registerCoreScript('jquery');
 
-            $jsFile = $this->useMinified ? 'fullcalendar.min.js ' : 'fullcalendar.js';
+            $jsFile = $this->useMinified ? 'fullcalendar.min.js' : 'fullcalendar.js';
             $cssFile = 'fullcalendar.css';
 
             if ($this->useCDN) {
